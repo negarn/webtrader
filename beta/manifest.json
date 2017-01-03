@@ -3,8 +3,8 @@
   "short_name": "Webtrader",
   "version": "2.1.17",
   "manifest_version": 2,
-  "description": "Webtrader for Binary.com",
-  "homepage_url": "https://www.binary.com",
+  "description": "Webtrader for champion-fx.com",
+  "homepage_url": "https://champion-fx.com",
   "icons": {
     "16": "v2.1.17/images/favicons/favicon-16x16.png",
     "32": "v2.1.17/images/favicons/favicon-32x32.png",
@@ -18,10 +18,10 @@
   },
   "browser_action": {
     "default_icon": "v2.1.17/images/favicons/favicon-128x128.png",
-    "default_title": "Webtrader for Binary.com"
+    "default_title": "Webtrader for champion-fx.com"
   },
   "permissions": [
     "cookies", "tabs",
-    "https://*.binary.com/*"
+    "https://*.champion-fx.com/*"
   ]
 }
